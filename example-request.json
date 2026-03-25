@@ -1,0 +1,65 @@
+{
+  "input": {
+    "workflow": {
+      "9": {
+        "inputs": {
+          "filename_prefix": "Flux2-Klein",
+          "images": [
+            "75",
+            0
+          ]
+        },
+        "class_type": "SaveImage",
+        "_meta": {
+          "title": "SaveImage"
+        }
+      },
+      "75": {
+        "inputs": {
+          "text": [
+            "76",
+            0
+          ]
+        },
+        "class_type": "7b34ab90-36f9-45ba-a665-71d418f0df18",
+        "_meta": {
+          "title": "7b34ab90-36f9-45ba-a665-71d418f0df18"
+        }
+      },
+      "76": {
+        "inputs": {
+          "filename": "imperfect, grainy cell phone picture of a beautiful young woman,geilefotze, sitting on the edge of her simple and cheap flat bed in the corner of  a prison cell. dirty and stained mattress. the room is illuminated by a harsh white neon lights. in the right background, a dirty sink left of a dirty toilet can be seen.  the walls are dirty and covered in grey molt.\n\nthe top of her prisoners uniform is unbuttoned so parts of her naked breasts are visible on the openening of the uniform. \n\nshe is wearing orange inmate's clothes. full body shown including her bear feet.\n\nshe has a sad expression on her face.\n\nright next to her, a security guard can be seen. he is shown sideways. he is wearing a prison guard's uniform. his trousers unzippled. his erect, stiff penis is emerging from the opened zipper. standing upright.  he is looking at the woman. the woman is looking at his penis.\n\nshe is reaching with her right hand for his penis.\n\n\n "
+        },
+        "class_type": "PrimitiveStringMultiline",
+        "_meta": {
+          "title": "Prompt"
+        }
+      },
+      "77": {
+        "inputs": {
+          "text": [
+            "76",
+            0
+          ]
+        },
+        "class_type": "a67caa28-5f85-4917-8396-36004960dd30",
+        "_meta": {
+          "title": "a67caa28-5f85-4917-8396-36004960dd30"
+        }
+      },
+      "78": {
+        "inputs": {
+          "filename_prefix": "Flux2-Klein",
+          "images": [
+            "77",
+            0
+          ]
+        },
+        "class_type": "SaveImage",
+        "_meta": {
+          "title": "SaveImage"
+        }
+      }
+    }
+  }
+}
